@@ -1,8 +1,15 @@
 # Davi_almeida
 <br>👋 Olá, eu sou o Davi Almeida Fontes!
 <br>🎓 Estudante de Desenvolvimento de Sistemas | SENAI / CEJO| Entusiasta de Python, Banco de Dados e Git
-<br>📌 Sobre Mim: Sou estudante do Curso Técnico em Desenvolvimento de Sistemas pelo SENAI / CEJO, apaixonado por tecnologia, resolução de problemas e inovação. Busco constantemente aprimorar minhas habilidades em lógica de programação e desenvolvimento de software, aplicando boas práticas de código e aprendendo novas ferramentas.
-<br>🏫 Formação: Técnico em Desenvolvimento de Sistemas (SENAI / CEJO)
+<br>📌 Sobre Mim: Sou estudante do Curso Técnico em Desenvolvimento de Sistemas no CEJO/SENAI, movido por uma constante paixão por tecnologia 💻 e pela curiosidade de entender como soluções digitais são construídas. Desde o início dos meus estudos, encontrei na programação uma forma prática de transformar problemas em código, desenvolvendo um pensamento analítico e estruturado para enfrentar desafios técnicos.
+
+📚 Durante a minha formação técnica, tenho focado no domínio de tecnologias fundamentais para o mercado de desenvolvimento de software. Tenho experiência prática na linguagem Python 🐍 para construção de lógicas e automações, além de sólidos conhecimentos no gerenciamento de Banco de Dados 🗃️ para estruturação de dados. Também utilizo o Git e GitHub 🌐 no meu cotidiano para versionamento de código e organização de repositórios.
+
+🎯 Meu principal objetivo profissional é ingressar na área de Tecnologia da Informação, onde eu possa aplicar esses conhecimentos em projetos reais, colaborar em equipe e continuar aprendendo constantemente. Estou sempre em busca de novas oportunidades, desafios e conexões no ecossistema tech para evoluir como desenvolvedor de software! ✨
+
+<br>🏫 Formação: Colegio Estadual Jardim Oriente (CEJO) / SENAI — Tecnico
+em Desenvolvimento de Sistemas (Previsao de termino: 2027).
+<br>🧗 Skills:Python, Logica de Programacao, Banco de Dados,Pensamento Analítico e Inovador,Mindset de crescimento
 <br>🎯 Objetivo: Desenvolver uma base sólida em engenharia de software e me preparar para desafios do mercado de TI.
 <br>💡 Interesses: Desenvolvimento Web, Programação Orientada a Objetos, Banco de Dados e Internet das Coisas (IoT).
 <br>🛠️ Tecnologias e Ferramentas
