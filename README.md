@@ -1,6 +1,6 @@
 # Davi_almeida
 <br>👋 Olá, eu sou o Davi Almeida Fontes!
-<br>🎓 Estudante de Desenvolvimento de Sistemas | SENAI / CEJO
+<br>🎓 Estudante de Desenvolvimento de Sistemas | SENAI / CEJO| Entusiasta de Python, Banco de Dados e Git
 <br>📌 Sobre Mim: Sou estudante do Curso Técnico em Desenvolvimento de Sistemas pelo SENAI / CEJO, apaixonado por tecnologia, resolução de problemas e inovação. Busco constantemente aprimorar minhas habilidades em lógica de programação e desenvolvimento de software, aplicando boas práticas de código e aprendendo novas ferramentas.
 <br>🏫 Formação: Técnico em Desenvolvimento de Sistemas (SENAI / CEJO)
 <br>🎯 Objetivo: Desenvolver uma base sólida em engenharia de software e me preparar para desafios do mercado de TI.
