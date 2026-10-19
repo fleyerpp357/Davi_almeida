@@ -9,7 +9,7 @@
 <br>💻 Linguagens & Web
 <br>🛢️ Banco de Dados & Versionamento
 <br>🤖 Conceitos & Hardware
-<br>🚀 Minhas Metas no Curso[ ] Aprofundar meus conhecimentos em Python e estruturas de dados, Criar projetos práticos aplicando conceitos de IoT integrados à Web, Modelar e manipular Bancos de Dados Relacionais com eficiência, Colaborar em projetos acadêmicos e open-source utilizando Git e GitHub.
+<br>🚀 Minhas Metas no Curso: Aprofundar meus conhecimentos em Python e estruturas de dados, Criar projetos práticos aplicando conceitos de IoT integrados à Web, Modelar e manipular Bancos de Dados Relacionais com eficiência, Colaborar em projetos acadêmicos e open-source utilizando Git e GitHub.
 <br>📂 Projetos em Destaque (SENAI / CEJO)Aqui estão alguns dos projetos desenvolvidos durante a minha jornada no curso:ProjetoDescriçãoTecnologiasLink
 <br>📁 Projeto 1Breve descrição do projeto acadêmico ou sistema desenvolvido.Python SQLVer Código
 <br>📁 Projeto 2Aplicação web desenvolvida para praticar estilização e estruturação.HTML CSSVer Código
